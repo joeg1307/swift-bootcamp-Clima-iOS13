@@ -14,7 +14,7 @@ protocol WeatherManagerDelegate {
 }
 
 struct WeatherManager{
-    let APIKEY = "68066065eea44fd8aaf766bf4f646eb5"
+    let APIKEY = ""
 
     let wurl = "https://api.openweathermap.org/data/2.5/weather"
     
